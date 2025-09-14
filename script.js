@@ -46,7 +46,7 @@ const carta = [
     { text: " No dudes que yo haré hasta lo imposible con tal de verte feliz,", pause: true },
     { text: " soy capaz de dejar mi orgullo, ", pause: true },
     { text: "mi egoísmo ", pause: true },
-    { text: "y mis malas actitudes de lado con tal de que siempre sigamos siendo solo tú y yo,", pause: true },
+    { text: "y mis malas actitudes de lado con tal de que siempre sigamos siendo solo tú ", pause: true },
     { text: "y yo,", pause: true },
     { text: " porque no necesito a nadie más, solamente a ti.", pause: false }
   ],
@@ -161,4 +161,5 @@ btnIniciar.addEventListener('click', () => {
   };
 
   escribirLetra();
+
 });
